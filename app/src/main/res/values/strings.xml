@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DBHelper</string>
+    <string-array name="genres">
+        <item>Action</item>
+        <item>Adventure</item>
+        <item>Comedy</item>
+        <item>Crime</item>
+        <item>Drama</item>
+        <item>Fantasy</item>
+        <item>Horror</item>
+        <item>Cartoon</item>
+    </string-array>
+</resources>
